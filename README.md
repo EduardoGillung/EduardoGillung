@@ -1,5 +1,5 @@
-![EduardoGillung's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGillung&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![EduardoGillung's Stats](https://github-readme-stats.vercel.app/api?username=EduardoGillung&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![EduardoGillung's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGillung&theme=dark&show_icons=true&hide_border=true&layout=compact)  
+  ![EduardoGillung's Stats](https://github-readme-stats.vercel.app/api?username=EduardoGillung&theme=dark&show_icons=true&hide_border=true&count_private=true)  
 
 
 <!--
