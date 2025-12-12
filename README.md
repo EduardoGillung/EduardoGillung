@@ -52,7 +52,7 @@ Transição para desenvolvimento através de participação ativa no ciclo de de
 - Importação e migração de dados entre sistemas legados
 - Colaboração com equipe de desenvolvimento para correção de bugs
 
-## 🏆 Projetos em Destaque
+## 🏆 Projetos
 
 ### 🎙️ [Audiodesc](https://github.com/EduardoGillung/Audiodesc)
 **Problema:** Alto volume e complexidade na análise de áudios em Suporte Técnico consumia tempo crítico da equipe.
