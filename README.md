@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Eduardo Gillung
 
-💻 Front-end Developer | ⚛️ React Specialist | 🇧🇷 Curitiba, Brasil
+💻 Front-end Developer | 🇧🇷 Curitiba, Brasil
 
 ## 🚀 Sobre Mim
 
